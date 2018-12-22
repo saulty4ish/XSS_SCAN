@@ -1,5 +1,5 @@
 # XSS_SCAN
-### python selenium+chrome检测get参数xss demo
+### python selenium+chrome 动态检测get参数xss
 
 ##### 环境(暂时win)：
 
